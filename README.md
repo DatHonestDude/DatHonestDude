@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @soumeswar
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning about Computer Science
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me soumeswarbhuty@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a programmer
-
-<!---
-soumeswar/soumeswar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 𝙷𝚒, 𝕴'𝖒 𝖘𝖔𝖚𝖒𝖊𝖘𝖜𝖆𝖗
+- ℑ 𝔩𝔬𝔳𝔢 𝔠𝔬𝔡𝔦𝔫𝔤 𝔰𝔱𝔲𝔣𝔣...
+- 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 𝚟𝚒𝚊 𝙳𝚒𝚜𝚌𝚘𝚛𝚍: 𝚜𝚘𝚞𝚖𝚎𝚜𝚠𝚊𝚛𝚘𝚠𝚗𝚜𝚢𝚘𝚞 (𝚄𝚜𝚎𝚛𝚗𝚊𝚖𝚎)
