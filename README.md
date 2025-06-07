@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=Malware+Analyst+%7C+Reverse+Engineer;Post+Exploitation+%7C+Coder;Injecting+Shellcode...;Hooking+APIs...;Bypassing+Userland+Detection..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=Malware+Analyst+%7C+Reverse+Engineer;Post+Exploitation+%7C+Coder;Injecting+Shellcode...;Hooking+APIs...;Bypassing+Security..." />
 </p>
 
 ---
