@@ -1,7 +1,7 @@
 <h1 align="center">💻 ShellJacker</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Malware+Analyst+%7C+Reverse+Engineer;Post+Exploitation+%7C+Coder+%7C+Cybersecurity+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Malware+Analyst+%7C+Reverse+Engineer;Post+Exploitation+%7C+Programmer" alt="Typing SVG" />
 </p>
 
 ---
