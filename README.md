@@ -8,14 +8,14 @@
 
 ### 👋 About Me
 
-- 🧠 I'm **ShellJacker**, a passionate **malware analyst** and **coder**
+- 🧠 I'm **ShellJacker**, a passionate **malware analyst** and **coder**  
 - 🕵️ I dive deep into:
-  - Reverse Engineering
-  - Malware Analysis
-  - Post-Exploitation Techniques
-  - Runtime Hooking & System Internals
-- 👨‍💻 I love building tools that explore memory, APIs, and binary internals.
-- 🚨 I raise awareness about the latest **cybercrimes, exploits, and attack trends**
+  - Reverse Engineering  
+  - Malware Analysis  
+  - Post-Exploitation Techniques  
+  - Runtime Hooking & System Internals  
+- 👨‍💻 I love building tools that explore memory, APIs, and binary internals.  
+- 🚨 I raise awareness about the latest **cybercrimes, exploits, and attack trends**  
 - 🎯 Motto: _“Clarity in complexity — one byte at a time”_
 
 ---
@@ -39,9 +39,13 @@
 
 ---
 
-### 🔷 My Discord Profile
+### 🔴 My Live Discord Profile
 
-[![Discord Avatar](https://cdn.discordapp.com/avatars/1245783823581577358/abcdef1234567890abcdef1234567890.png?size=80)](https://discordapp.com/users/1245783823581577358)
+Check out my live Discord profile page here:
+
+[![Live Discord Profile](https://img.shields.io/badge/Live_Discord_Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://yourusername.github.io)  
+
+*(Replace the URL above with your actual GitHub Pages URL hosting the Discord live profile)*
 
 ---
 
