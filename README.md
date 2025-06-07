@@ -10,7 +10,7 @@
 
 ### 👁️ About Me
 
-- 🧠 I'm **ShellJacker**, a passionate **malware analyst**, **post-exploitation** expert, and **reverse engineer**
+- 🧠 I'm **ShellJacker**, a passionate **programmer**, **malware analyst**, and **reverse engineer**
 - 💾 Obsessed with:
   - 📂 Memory Forensics
   - 🧬 API Hooking
