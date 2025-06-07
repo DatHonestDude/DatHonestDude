@@ -35,7 +35,7 @@
 ### 🟢 Discord Live Status
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/124578382358157735?theme=dark&borderRadius=15px&animated=true&hideDiscrim=false&idleMessage=Injecting+shellcode..." />
+  <img src="https://lanyard.cnrad.dev/api/1245783823581577358?theme=dark&borderRadius=15px&animated=true&hideDiscrim=false&idleMessage=Injecting+shellcode..." />
 </p>
 
 ---
