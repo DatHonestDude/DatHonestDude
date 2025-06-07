@@ -32,16 +32,16 @@
 
 ### 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumeswarownsyou)
-[![Discord](https://img.shields.io/badge/Discord-soumeswarownsyou%231000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1245783823581577358)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShellJacker)
+[![Discord](https://img.shields.io/badge/Discord-ShellJacker%231000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1245783823581577358)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumeswarownsyou&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=soumeswarownsyou&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShellJacker&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShellJacker&theme=radical" width="450"/>
 </p>
 
 ---
