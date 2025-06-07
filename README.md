@@ -39,6 +39,12 @@
 
 ---
 
+### 🔷 My Discord Profile
+
+[![Discord Avatar](https://cdn.discordapp.com/avatars/1245783823581577358/abcdef1234567890abcdef1234567890.png?size=80)](https://discordapp.com/users/1245783823581577358)
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
