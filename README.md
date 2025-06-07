@@ -25,10 +25,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![x86 ASM](https://img.shields.io/badge/x86%2F64%20Assembly-5e5e5e?style=for-the-badge)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge)
 ![Ghidra](https://img.shields.io/badge/Ghidra-EF3D2B?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
