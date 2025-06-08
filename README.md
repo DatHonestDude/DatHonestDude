@@ -31,7 +31,8 @@
 ![Linux](https://img.shields.io/badge/Linux-Terminal_Green?style=for-the-badge&logo=linux&logoColor=00FF00&color=111111)
 
 ---
-
+### 😎 JOIN OUR SERVER
+[![Join our Discord](https://img.shields.io/discord/1380783720654442546?label=Join%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/5Wp9bYEN)
 ### 🟢 Discord Live Status
 
 <p align="center">
