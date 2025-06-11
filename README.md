@@ -44,6 +44,6 @@ I'm a programmer making tutorial videos on YouTube to help others learn everythi
 
 ---
 
-> 🧠 “If there are bugs in the light, go for dark instead.”  
+> 🧠 “If bugs exist in the light, opt for the dark.”  
 > ~ Sun Wzu (Art of Coding)  
 > © 2025 thatawesomedude — All rights reserved.
