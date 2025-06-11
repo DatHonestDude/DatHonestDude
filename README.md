@@ -1,36 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0BFF00&center=true&vCenter=true&width=435&lines=💀+ShellJacker"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0BFF00&center=true&vCenter=true&width=435&lines=💀+thatawesomedude"
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=450&lines=Malware+Analyst+%7C+Reverse+Engineer;Post+Exploitation+%7C+Coder;Injecting+Shellcode...;Hooking+APIs...;Bypassing+Security..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=450&lines=Tutorial Videos;Coding...;Decompiling...;Explainations..." />
 </p>
 
 ---
 
 ### 👁️ About Me
 
-- 🧠 I'm **ShellJacker**, a passionate **programmer**, **malware analyst**, and **reverse engineer**
-- 💾 Obsessed with:
-  - 📂 Memory Forensics
-  - 🧬 API Hooking
-  - 🕷️ Malware Unpacking
-  - 🔗 Binary Analysis
-- 🛠️ I build tools that **dig into internals**, **map memory**, and **expose system weaknesses**
-- ⚠️ I raise awareness about **zero-days**, **threat actors**, and **cyberattack tactics**
-- 🔐 Motto: _“Clarity in complexity — one byte at a time”_
+**thatawesomedude**
 
+I'm a programmer making tutorial videos in YouTube to help other people out there.
 ---
 
-### ⚙️ Tech Stack
-
-![C](https://img.shields.io/badge/C-Terminal_Green?style=for-the-badge&logo=c&logoColor=00FF00&color=111111)  
-![Python](https://img.shields.io/badge/Python-Terminal_Green?style=for-the-badge&logo=python&logoColor=00FF00&color=111111)  
-![x86 ASM](https://img.shields.io/badge/x86%2F64%20ASM-Terminal_Green?style=for-the-badge&logoColor=00FF00&color=111111)  
-![Ghidra](https://img.shields.io/badge/Ghidra-Terminal_Green?style=for-the-badge&logoColor=00FF00&color=111111)  
-![Linux](https://img.shields.io/badge/Linux-Terminal_Green?style=for-the-badge&logo=linux&logoColor=00FF00&color=111111)
-
----
 ### 😎 JOIN OUR SERVER
 [![Join our Discord](https://img.shields.io/discord/1380783720654442546?label=Join%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/5Wp9bYEN)
 ### 🟢 Discord Live Status
@@ -57,5 +41,6 @@
 
 ---
 
-> 🧠 “Exploit the system, not the users.”  
-> © 2025 ShellJacker — All rights reserved.
+> 🧠 “If there are bugs in the light, use dark instead.”
+>                               ~ Sun Wzu (Art of Coding) 
+> © 2025 thatawesomedude — All rights reserved.
