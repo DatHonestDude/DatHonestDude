@@ -31,19 +31,19 @@ I'm a programmer making tutorial videos on YouTube to help others learn everythi
 ### 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShellJacker&show_icons=true&theme=radical" width="450" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShellJacker&theme=radical" width="450" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=thatawesomedude&show_icons=true&theme=radical" width="450" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thatawesomedude&theme=radical" width="450" alt="GitHub Streak">
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Terminal_Green?style=for-the-badge&logo=github&logoColor=00FF00&color=111111)](https://github.com/ShellJacker)  
-[![Discord](https://img.shields.io/badge/Discord-ShellJacker%231000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1245783823581577358)
+[![GitHub](https://img.shields.io/badge/GitHub-Terminal_Green?style=for-the-badge&logo=github&logoColor=00FF00&color=111111)](https://github.com/thatawesomedude)  
+[![Discord](https://img.shields.io/badge/Discord-thatawesomedude%231000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1245783823581577358)
 
 ---
 
-> 🧠 “If there are bugs in the light, use dark instead.”  
+> 🧠 “If there are bugs in the light, go for dark instead.”  
 > ~ Sun Wzu (Art of Coding)  
 > © 2025 thatawesomedude — All rights reserved.
