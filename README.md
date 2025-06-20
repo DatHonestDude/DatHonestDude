@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0BFF00&center=true&vCenter=true&width=435&lines=💀+thatawesomedude" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0BFF00&center=true&vCenter=true&width=435&lines=💀+ThatHonestDude" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ### 👁️ About Me
 
-**thatawesomedude**
+**ThatHonestDude**
 
 I'm a programmer making tutorial videos on YouTube to help others learn everything from coding to reverse engineering.
 
