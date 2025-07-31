@@ -17,7 +17,7 @@ I'm just an idiot person.
 
 ### 😎 JOIN OUR SERVER
 
-[![Join our Discord](https://img.shields.io/discord/1380783720654442546?label=Join%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/MHMBNVmT)
+[![Join our Discord](https://img.shields.io/discord/1380783720654442546?label=Join%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/nbmXjC5m)
 
 ### 🟢 Discord Live Status
 
