@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=450&lines=An+Idiot...;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=450&lines=An+Idiot...;"  alt="Typing SVG">
 </p>
 
 ---
@@ -22,7 +22,7 @@ I'm just an idiot person.
 ### 🟢 Discord Live Status
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1245783823581577358?theme=dark&borderRadius=15px&animated=true&hideDiscrim=false&idleMessage=VIBING TO MUSIC!" alt="Discord Presence">
+  <img src="https://lanyard.cnrad.dev/api/1245783823581577358?theme=dark&borderRadius=15px&animated=true&hideDiscrim=false&idleMessage=VIBING+TO+MUSIC!" alt="Discord Presence">
 </p>
 
 ---
