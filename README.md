@@ -22,7 +22,7 @@ I'm just an idiot person.
 ### 🟢 Discord Live Status
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1245783823581577358?theme=dark&borderRadius=15px&animated=true&hideDiscrim=false&idleMessage=Injecting+shellcode..." alt="Discord Presence">
+  <img src="https://lanyard.cnrad.dev/api/1245783823581577358?theme=dark&borderRadius=15px&animated=true&hideDiscrim=false&idleMessage=VIBING TO MUSIC!" alt="Discord Presence">
 </p>
 
 ---
